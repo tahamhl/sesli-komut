@@ -99,6 +99,3 @@ Ses çıkışı sorunları için:
   - GitHub: [github.com/tahamhl](https://github.com/tahamhl)
   - Website: [tahamehel.tr](https://tahamehel.tr)
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın. 
